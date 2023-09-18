@@ -20,3 +20,7 @@ const circleCircumference = 2 * 3.14 * circleRadius;
 console.log(
   `Circumference of a Circle with radius ${areaOfCircle} is ${circleCircumference}`
 );
+
+//Circumference of a circle, C = 2 * π * r
+
+const circleCircumference = 2 * 3.14 * circleRadius;
