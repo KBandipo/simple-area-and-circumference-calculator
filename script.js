@@ -11,3 +11,5 @@ Volume of a cube, V = s**3 or V = s**3
 const circleRadius = Number(
   prompt("To find the Area, A of a circle, enter the radius, r")
 );
+const areaOfCircle = 3.14 * circleRadius ** 2;
+console.log(`Area of a Circle with radius ${circleRadius} is ${areaOfCircle}`);
