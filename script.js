@@ -13,3 +13,10 @@ const circleRadius = Number(
 );
 const areaOfCircle = 3.14 * circleRadius ** 2;
 console.log(`Area of a Circle with radius ${circleRadius} is ${areaOfCircle}`);
+
+//Circumference of a circle, C = 2 * π * r
+
+const circleCircumference = 2 * 3.14 * circleRadius;
+console.log(
+  `Circumference of a Circle with radius ${areaOfCircle} is ${circleCircumference}`
+);
